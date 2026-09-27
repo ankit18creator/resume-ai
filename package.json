@@ -1,0 +1,17 @@
+{
+  "name": "resume-ai-monorepo",
+  "version": "1.0.0",
+  "description": "ResumeAI - Production-style AI Resume Analyzer and ATS Matcher",
+  "private": true,
+  "scripts": {
+    "install-all": "npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\" --names \"SERVER,CLIENT\" --prefix-colors \"blue,green\"",
+    "build": "npm --prefix client run build",
+    "test": "npm --prefix server test"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

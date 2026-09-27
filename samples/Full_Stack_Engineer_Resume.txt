@@ -1,0 +1,29 @@
+David Miller
+Austin, TX | david.miller.tech@gmail.com | (512) 809-4321
+linkedin.com/in/davidmiller-dev | github.com/davidmiller-tech
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 5+ years of hands-on experience designing, developing, and deploying resilient web applications and microservices. Expert in React, TypeScript, Node.js, and PostgreSQL. Spearheaded distributed backend migrations that reduced API response times by 38% and scaled transaction processing to 4M daily events.
+
+WORK EXPERIENCE
+Senior Software Engineer | FinTech Innovations Inc. (2022 - Present)
+- Architected high-concurrency Node.js and TypeScript microservices handling $18M in daily payment volume with 99.99% uptime.
+- Re-architected frontend data-fetching layer using React and TanStack Query, cutting client-side render latencies by 42%.
+- Engineered automated CI/CD deployment pipelines on AWS ECS and Docker, reducing build-to-deploy cycles from 3 hours to 14 minutes.
+- Spearheaded PostgreSQL database indexing and query optimization, decreasing p95 query response time by 55%.
+- Mentored a cross-functional pod of 4 junior developers in automated testing with Jest and Cypress.
+
+Software Engineer | CloudScale Systems (2019 - 2022)
+- Developed and maintained customer-facing web applications using React, Redux, and Tailwind CSS.
+- Built scalable RESTful APIs with Express.js and integrated multi-tier Redis caching, reducing server load by 35%.
+- Collaborated in an Agile/Scrum team to ship 12 major product feature iterations on schedule.
+
+EDUCATION
+B.S. in Computer Science | University of Texas at Austin (2015 - 2019)
+- Graduated Magna Cum Laude, GPA: 3.8/4.0.
+
+TECHNICAL SKILLS
+- Languages: JavaScript (ES6+), TypeScript, Python, SQL, HTML5, CSS3, Bash
+- Frameworks & Libraries: React, Next.js, Node.js, Express, Redux, Tailwind CSS, Jest
+- Cloud & Infrastructure: AWS (ECS, S3, RDS, Lambda), Docker, PostgreSQL, Redis, MongoDB
+- Methodologies & Tools: Git, GitHub Actions, CI/CD, Agile, Scrum, Microservices, REST APIs, GraphQL

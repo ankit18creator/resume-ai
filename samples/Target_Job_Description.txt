@@ -1,0 +1,18 @@
+Lead Full Stack Engineer - Cloud & Payments Platform
+
+About the Role:
+We are looking for a Senior / Lead Full Stack Engineer to lead architecture and development across our core payment services and modern web platforms. You will work closely with product teams, design distributed microservices, and ensure top-tier performance and reliability.
+
+Responsibilities:
+- Design and build mission-critical APIs and web interfaces using React, TypeScript, Node.js, and PostgreSQL.
+- Manage containerized deployments on AWS using Docker and Kubernetes.
+- Implement robust CI/CD automated test pipelines using Jest and GitHub Actions.
+- Optimize high-throughput caching and database layers (Redis, PostgreSQL).
+- Champion engineering best practices, system design, and mentor junior engineers.
+
+Requirements:
+- 4+ years of professional experience with React, TypeScript, and Node.js.
+- Strong knowledge of relational databases (PostgreSQL preferred) and caching (Redis).
+- Hands-on experience with cloud infrastructure (AWS) and containerization (Docker, Kubernetes).
+- Familiarity with GraphQL and Kafka/RabbitMQ is a strong plus.
+- Bachelor's degree in Computer Science or equivalent practical industry experience.
